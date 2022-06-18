@@ -50,7 +50,7 @@
 <br>
 
 🦜  If you'd like to chat about anything hit me up on discord!
-![Discord](https://img.shields.io/badge/Ruru%233991-6832e3?style=flat-square&logo=discord&logoColor=white&labelColor=6832e3)
+![Ruru#3991](https://img.shields.io/badge/Ruru%233991-6832e3?style=flat-square&logo=discord&logoColor=white&labelColor=6832e3)
 <br>
 
 🎵Average Music Enjoyer  [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white&labelColor=1DB954)](https://open.spotify.com/user/20yg8tckyrqdgvbq3ozfd6q13?si=3f2aced22f494f5d)  
