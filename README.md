@@ -43,7 +43,7 @@
 
 
 <br>
-📰  I am still a newbie and I'd love to learn more and meet new people! 
+📰  I'm still a newbie and I'd love to learn more and meet new people! 
 
 <!--Interests-->
 
