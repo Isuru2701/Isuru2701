@@ -51,10 +51,11 @@
 
 🦜  If you'd like to chat about anything hit me up on discord!
 ![Discord](https://img.shields.io/badge/Ruru%233991-6832e3?style=flat-square&logo=discord&logoColor=white&labelColor=6832e3)
-
-
 <br>
-🍙  Weeb (^・ω・^ )
+
+🎵Average Music Enjoyer  [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white&labelColor=1DB954)](https://open.spotify.com/user/20yg8tckyrqdgvbq3ozfd6q13?si=3f2aced22f494f5d)  
+<br>
+🍙  Weeb (・ω・ )
 
 <br>
 📺  Slice of Life |  Sci-Fi |  Romcom | Seinen
@@ -62,11 +63,9 @@
 <br>
 📙  Bookworm
 
-
 <br>
 ✨  Oh and I play genshin too! UID ``844008437``
 
-<br>
 
 <!--programming languages-->
 
