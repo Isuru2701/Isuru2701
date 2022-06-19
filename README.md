@@ -72,6 +72,11 @@
 
 <br>
 
+🧪  Science, Psychology and Philosophy fan
+
+
+<br>
+
 ✨  Oh and I play genshin too! UID ``844008437``
 
 
