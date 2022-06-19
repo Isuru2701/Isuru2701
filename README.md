@@ -40,29 +40,38 @@
 ![Illustrator](https://img.shields.io/badge/-Ai-101112?style=flat-square&logo=adobe&logoColor=e0823f)
 ![Autodesk Sketchbook](https://img.shields.io/badge/-Autodesk%20Sketchbook-3b3a39?style=flat-square&logo=autodesk&logoColor=ed6445)
 
-
 <br>
-📰  I'm still a newbie and I'd love to learn more and meet new people! 
+
+
+🎵Average Music Enjoyer  [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white&labelColor=1DB954)](https://open.spotify.com/user/20yg8tckyrqdgvbq3ozfd6q13?si=3f2aced22f494f5d)  
 
 <!--Interests-->
+<br>
+
+📰  I'm still a newbie and I'd love to learn more and meet new people!
+<br>
 
 <br>
 
 🦜  If you'd like to chat about anything hit me up on discord!
 ![Ruru#3991](https://img.shields.io/badge/Ruru%233991-6832e3?style=flat-square&logo=discord&logoColor=white&labelColor=6832e3)
+
+
+
 <br>
 
-🎵Average Music Enjoyer  [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white&labelColor=1DB954)](https://open.spotify.com/user/20yg8tckyrqdgvbq3ozfd6q13?si=3f2aced22f494f5d)  
-<br>
 🍙  Weeb (・ω・ )
 
 <br>
+
 📺  Slice of Life |  Sci-Fi |  Romcom | Seinen
 
 <br>
+
 📙  Bookworm
 
 <br>
+
 ✨  Oh and I play genshin too! UID ``844008437``
 
 
