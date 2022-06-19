@@ -1,5 +1,5 @@
 <!-- Intro-->
-### <b><div style="color:#96f3fe;font-family:'Bahnschrift';font-size:60px;align:centre">Isuru</div></b>
+# <b><div style="color:#96f3fe;font-family:'Bahnschrift';font-size:60px;align:centre">Isuru</div></b>
 
 #
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Isuru2701&count_private=false&text_color=ffffff&bg_color=DEG,02a4b5,b202b5&custom_title=Fr?&include_all_commits_disable=true&title_color=ffffff">
