@@ -14,13 +14,29 @@
 - he/him they/them
 - waiting for my Shikimori ( ⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄ )
 
+<!--programming languages-->
+
+## Programming Languages
+![Python](https://img.shields.io/badge/-Python-02a4b5?style=flat-square&logo=python&logoColor=fff)
+![C](https://img.shields.io/badge/-C-fdc0fd?style=flat-square&logo=C&logoColor=fff)
+![C++](https://img.shields.io/badge/-C%2b%2b-e843e3?style=flat-square&logo=C%2b%2b&logoColor=fff)
+![R](https://img.shields.io/badge/-R-8c9aff?style=flat-square&logo=R&logoColor=fff)
+![Arduino](https://img.shields.io/badge/-Arduino-3776ab?style=flat-square&logo=arduino&logoColor=fff)
+![Kotlin](https://img.shields.io/badge/-Kotlin-c68cff?style=flat-square&logo=kotlin&logoColor=fff)
+
+
+## Platforms
+![Windows 11 Pro](https://img.shields.io/badge/Windows%2011%20Pro-02a4b5?style=flat&logo=windows&logoColor=ffffff)
+![Android](https://img.shields.io/badge/Android-b202b5?style=flat&logo=android&logoColor=ffffff)
+
+
+
 ## Quick Contacts
-[![E-Mail](https://img.shields.io/badge/Isuru-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:isuruyahampath1@gmail.com)
-[![Discord](https://img.shields.io/badge/Server-6832e3?style=flat-square&logo=discord&logoColor=white&labelColor=6832e3)](https://discord.gg/UBGgbrw)
+[![E-Mail](https://img.shields.io/badge/Isuru-b202b5?style=flat-square&logo=gmail&logoColor=white&labelColor=b202b5)](mailto:isuruyahampath1@gmail.com)
+[![Discord](https://img.shields.io/badge/Server-02a4b5?style=flat-square&logo=discord&logoColor=white&labelColor=02a4b5)](https://discord.gg/UBGgbrw)
 
 
 🌐 Website: Coming soon!
-
 
 <br>
 
@@ -51,12 +67,6 @@
 📰  I'm still a newbie and I'd love to learn more and meet new people!
 <br>
 
-<br>
-
-🦜  If you'd like to chat about anything hit me up on discord!
-![Ruru#3991](https://img.shields.io/badge/Ruru%233991-6832e3?style=flat-square&logo=discord&logoColor=white&labelColor=6832e3)
-
-
 
 <br>
 
@@ -77,23 +87,12 @@
 
 <br>
 
-✨  Oh and I play genshin too! UID ``844008437``
+✨  Oh and I play genshin too! UID: ``844008437``
 
+<br>
 
-<!--programming languages-->
-
-## Programming Languages
-![Python](https://img.shields.io/badge/-Python-02a4b5?style=flat-square&logo=python&logoColor=fff)
-![C](https://img.shields.io/badge/-C-fdc0fd?style=flat-square&logo=C&logoColor=fff)
-![C++](https://img.shields.io/badge/-C%2b%2b-e843e3?style=flat-square&logo=C%2b%2b&logoColor=fff)
-![R](https://img.shields.io/badge/-R-8c9aff?style=flat-square&logo=R&logoColor=fff)
-![Arduino](https://img.shields.io/badge/-Arduino-3776ab?style=flat-square&logo=arduino&logoColor=fff)
-![Kotlin](https://img.shields.io/badge/-Kotlin-c68cff?style=flat-square&logo=kotlin&logoColor=fff)
-
-
-## Platforms
-![Windows 11 Pro](https://img.shields.io/badge/Windows%2011%20Pro-00adef?style=flat&logo=windows&logoColor=ffffff)
-![Android](https://img.shields.io/badge/Android-a4c639?style=flat&logo=android&logoColor=ffffff)
+🦜  If you'd like to chat about anything hit me up on discord!
+![Ruru#3991](https://img.shields.io/badge/Ruru%233991-6832e3?style=flat-square&logo=discord&logoColor=white&labelColor=6832e3)
 
 Ja~!
 
