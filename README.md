@@ -1,7 +1,7 @@
 <!-- Intro-->
 # <b><div style="color:#96f3fe;font-family:'Bahnschrift';font-size:60px;align:centre">Isuru</div></b>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Isuru2701&count_private=false&text_color=ffffff&bg_color=DEG,02a4b5,b202b5&custom_title=Fr?&include_all_commits_disable=true&title_color=ffffff">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Isuru2701&count_private=true&text_color=ffffff&bg_color=DEG,02a4b5,b202b5&custom_title=Fr?&include_all_commits_disable=true&title_color=ffffff">
 
 
 <b><div style="color:#fdc0fe;font-family:'Bahnschrift';font-size:25px">Yosh👋</div></b>
@@ -24,7 +24,8 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-3776ab?style=flat-square&logo=arduino&logoColor=fff)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-c68cff?style=flat-square&logo=kotlin&logoColor=fff)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Isuru2701&hide_border=true&title_color=fff&bg_color=DEG,02a4b5,b202b5&text_color=ffffff&layout=compact">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Isuru2701&hide_border=false&title_color=fff&bg_color=DEG,02a4b5,b202b5&text_color=ffffff&count_private=true&layout=compact">
+
 
 
 ## Platforms
