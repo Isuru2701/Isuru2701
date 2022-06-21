@@ -24,7 +24,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-3776ab?style=flat-square&logo=arduino&logoColor=fff)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-c68cff?style=flat-square&logo=kotlin&logoColor=fff)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Isuru2701&hide_border=false&title_color=fff&bg_color=DEG,02a4b5,b202b5&text_color=ffffff&count_private=true&hide=TeX&layout=compact">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Isuru2701&hide_border=false&title_color=fff&bg_color=DEG,02a4b5,b202b5&text_color=ffffff&count_private=true&hide=TeX,HTML&layout=compact">
 
 
 
