@@ -14,29 +14,31 @@
 - he/him they/them
 - waiting for my Shikimori ( ⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄ )
 
+## Quick Contacts
+[![E-Mail](https://img.shields.io/badge/Isuru-b202b5?style=flat-square&logo=gmail&logoColor=white&labelColor=b202b5)](mailto:isuruyahampath1@gmail.com)
+[![Discord](https://img.shields.io/badge/Server-02a4b5?style=flat-square&logo=discord&logoColor=white&labelColor=02a4b5)](https://discord.gg/UBGgbrw)
+
 <!--programming languages-->
+
 
 ## Programming Languages
 ![Python](https://img.shields.io/badge/-Python-02a4b5?style=flat-square&logo=python&logoColor=fff)
 ![C](https://img.shields.io/badge/-C-fdc0fd?style=flat-square&logo=C&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C%2b%2b-e843e3?style=flat-square&logo=C%2b%2b&logoColor=fff)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Isuru2701&hide_border=false&title_color=fff&bg_color=DEG,02a4b5,b202b5&text_color=ffffff&count_private=true&hide=TeX,HTML&layout=compact">
 ![R](https://img.shields.io/badge/-R-8c9aff?style=flat-square&logo=R&logoColor=fff)
 ![Arduino](https://img.shields.io/badge/-Arduino-3776ab?style=flat-square&logo=arduino&logoColor=fff)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-c68cff?style=flat-square&logo=kotlin&logoColor=fff)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Isuru2701&hide_border=false&title_color=fff&bg_color=DEG,02a4b5,b202b5&text_color=ffffff&count_private=true&hide=TeX,HTML&layout=compact">
 
-
+<br>
+<br>
+<br>
+<br>
 
 ## Platforms
 ![Windows 11 Pro](https://img.shields.io/badge/Windows%2011%20Pro-02a4b5?style=flat&logo=windows&logoColor=ffffff)
 ![Android](https://img.shields.io/badge/Android-b202b5?style=flat&logo=android&logoColor=ffffff)
-
-
-
-## Quick Contacts
-[![E-Mail](https://img.shields.io/badge/Isuru-b202b5?style=flat-square&logo=gmail&logoColor=white&labelColor=b202b5)](mailto:isuruyahampath1@gmail.com)
-[![Discord](https://img.shields.io/badge/Server-02a4b5?style=flat-square&logo=discord&logoColor=white&labelColor=02a4b5)](https://discord.gg/UBGgbrw)
 
 
 🌐 Website: Coming soon!
