@@ -96,8 +96,7 @@
 
 <br>
 
-🦜  If you'd like to chat about anything hit me up on discord!
-![Ruru#3991](https://img.shields.io/badge/Ruru%233991-6832e3?style=flat-square&logo=discord&logoColor=white&labelColor=6832e3)
+🦜  If you'd like to chat about anything hit me up on discord! ``Ruru#3991``
 
 Ja~!
 
