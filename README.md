@@ -58,7 +58,6 @@
 ✏️  Digital Artist | Designer
 
 ![Photoshop](https://img.shields.io/badge/-Ps-101112?style=flat-square&logo=adobe&logoColor=3a88e0)
-![Illustrator](https://img.shields.io/badge/-Ai-101112?style=flat-square&logo=adobe&logoColor=e0823f)
 ![Autodesk Sketchbook](https://img.shields.io/badge/-Autodesk%20Sketchbook-3b3a39?style=flat-square&logo=autodesk&logoColor=ed6445)
 
 <br>
