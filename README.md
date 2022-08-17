@@ -22,13 +22,13 @@
 
 
 ## Programming Languages
-![Python](https://img.shields.io/badge/-Python-02a4b5?style=flat-square&logo=python&logoColor=fff)
+[Python](https://img.shields.io/badge/-Python-02a4b5?style=flat-square&logo=python&logoColor=fff)
 ![C](https://img.shields.io/badge/-C-fdc0fd?style=flat-square&logo=C&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C%2b%2b-e843e3?style=flat-square&logo=C%2b%2b&logoColor=fff)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Isuru2701&hide_border=false&title_color=fff&bg_color=DEG,02a4b5,b202b5&text_color=ffffff&count_private=true&hide=TeX,HTML&layout=compact">
 ![R](https://img.shields.io/badge/-R-8c9aff?style=flat-square&logo=R&logoColor=fff)
 ![Arduino](https://img.shields.io/badge/-Arduino-3776ab?style=flat-square&logo=arduino&logoColor=fff)
-![Java](https://img.shields.io/badge/-Java-c68cff?style=flat-square&logo=Java&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-c68cff?style=flat-square&logo=java&logoColor=fff)
 
 
 <br>
