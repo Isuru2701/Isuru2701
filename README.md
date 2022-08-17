@@ -28,7 +28,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Isuru2701&hide_border=false&title_color=fff&bg_color=DEG,02a4b5,b202b5&text_color=ffffff&count_private=true&hide=TeX,HTML&layout=compact">
 ![R](https://img.shields.io/badge/-R-8c9aff?style=flat-square&logo=R&logoColor=fff)
 ![Arduino](https://img.shields.io/badge/-Arduino-3776ab?style=flat-square&logo=arduino&logoColor=fff)
-![Java](https://img.shields.io/badge/-Java-c68cff?style=flat-square&logo=java&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-c68cff?style=flat-square&logo=oracle&logoColor=fff)
 
 
 <br>
