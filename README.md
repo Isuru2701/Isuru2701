@@ -12,7 +12,7 @@
 - First Year undergrad 🎓 2026
 - 18 y.o 
 - he/him they/them
-- waiting for my Shikimori ( ⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄ )
+
 
 ## Quick Contacts
 [![E-Mail](https://img.shields.io/badge/Isuru-b202b5?style=flat-square&logo=gmail&logoColor=white&labelColor=b202b5)](mailto:isuruyahampath1@gmail.com)
