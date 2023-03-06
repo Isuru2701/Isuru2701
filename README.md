@@ -15,15 +15,15 @@
 
 
 ## Quick Contacts
-[![E-Mail](https://img.shields.io/badge/Isuru-b202b5?style=flat-square&logo=gmail&logoColor=white&labelColor=b202b5)](mailto:isuruyahampath1@gmail.com)
-[![Discord](https://img.shields.io/badge/Server-02a4b5?style=flat-square&logo=discord&logoColor=white&labelColor=02a4b5)](https://discord.gg/UBGgbrw)
+[![E-Mail](https://img.shields.io/badge/Isuru-b3198f?style=flat-square&logo=gmail&logoColor=white&labelColor=b3198f)](mailto:isuruyahampath1@gmail.com)
+[![Discord](https://img.shields.io/badge/Server-3d19b3?style=flat-square&logo=discord&logoColor=white&labelColor=3d19b3)](https://discord.gg/UBGgbrw)
 
 <!--programming languages-->
 
 
 ## Programming Languages
-![Python](https://img.shields.io/badge/-Python-02a4b5?style=flat-square&logo=python&logoColor=fff)
-![C](https://img.shields.io/badge/-C-fdc0fd?style=flat-square&logo=C&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-15778f?style=flat-square&logo=python&logoColor=fff)
+![C#](https://img.shields.io/badge/-CSharp-131e80?style=flat-square&logo=Csharp&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C%2b%2b-e843e3?style=flat-square&logo=C%2b%2b&logoColor=fff)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Isuru2701&hide_border=false&title_color=ffffff&bg_color=171717&text_color=ffffff&count_private=true&hide=TeX,HTML&layout=compact">
 ![R](https://img.shields.io/badge/-R-8c9aff?style=flat-square&logo=R&logoColor=fff)
@@ -55,7 +55,7 @@
 
 
 <br>
-✏️  Digital Artist | Designer
+✏️  Digital Artist
 
 ![Photoshop](https://img.shields.io/badge/-Ps-101112?style=flat-square&logo=adobe&logoColor=3a88e0)
 ![Autodesk Sketchbook](https://img.shields.io/badge/-Autodesk%20Sketchbook-3b3a39?style=flat-square&logo=autodesk&logoColor=ed6445)
@@ -63,7 +63,9 @@
 <br>
 
 
-🎵Average Music Enjoyer  [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white&labelColor=1DB954)](https://open.spotify.com/user/20yg8tckyrqdgvbq3ozfd6q13?si=3f2aced22f494f5d)  
+🎵Average Music Enjoyer
+
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white&labelColor=1DB954)](https://open.spotify.com/user/20yg8tckyrqdgvbq3ozfd6q13?si=3f2aced22f494f5d)  
 
 <!--Interests-->
 <br>
