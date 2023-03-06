@@ -11,7 +11,7 @@
 
 - First Year undergrad 🎓 2026
 - 18 y.o 
-- he/him they/them
+- yes, I'm a guy..
 
 
 ## Quick Contacts
