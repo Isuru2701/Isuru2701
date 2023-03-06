@@ -15,8 +15,9 @@
 
 
 ## Quick Contacts
-[![E-Mail](https://img.shields.io/badge/Isuru-b3198f?style=flat-square&logo=gmail&logoColor=white&labelColor=b3198f)](mailto:isuruyahampath1@gmail.com)
 [![Discord](https://img.shields.io/badge/Server-3d19b3?style=flat-square&logo=discord&logoColor=white&labelColor=3d19b3)](https://discord.gg/UBGgbrw)
+[![E-Mail](https://img.shields.io/badge/Isuru-b3198f?style=flat-square&logo=gmail&logoColor=white&labelColor=b3198f)](mailto:isuruyahampath1@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-c13584?style=flat-square&logo=instagram&logoColor=white&labelColor=c13584)](https://www.instagram.com/ruwuru2701/)
 
 <!--programming languages-->
 
