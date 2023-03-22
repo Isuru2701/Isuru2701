@@ -10,7 +10,7 @@
 ### I'm Isuru, and I go by **Ruru** online!
 
 - First Year undergrad 🎓 2026
-- 18 y.o 
+- 19 y.o 
 - yes, I'm a guy..
 
 
@@ -38,15 +38,13 @@
 <br>
 
 ## Platforms
-![Windows 11 Pro](https://img.shields.io/badge/Windows%2011%20Pro-02a4b5?style=flat&logo=windows&logoColor=ffffff)
+![Windows 11](https://img.shields.io/badge/Windows%2011%20Pro-02a4b5?style=flat&logo=windows&logoColor=ffffff)
 ![Android](https://img.shields.io/badge/Android-b202b5?style=flat&logo=android&logoColor=ffffff)
 
 
 🌐 Website: Coming soon!
 
 <br>
-
-**Birthday**　　　🎂 27 . 01 . 2004 
 
 **Languages**　　💬 **EN** 　|　 **SI**　 |　 **JP** *(少しだけど。。。)*
 
