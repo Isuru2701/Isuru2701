@@ -54,7 +54,7 @@
 
 
 <br>
-✏️  Digital Artist
+✏️  Draws stuff (sometimes)
 
 ![Photoshop](https://img.shields.io/badge/-Ps-101112?style=flat-square&logo=adobe&logoColor=3a88e0)
 ![Autodesk Sketchbook](https://img.shields.io/badge/-Autodesk%20Sketchbook-3b3a39?style=flat-square&logo=autodesk&logoColor=ed6445)
@@ -71,11 +71,6 @@
 
 📰  I'm still a newbie and I'd love to learn more and meet new people!
 <br>
-
-
-<br>
-
-🍙  Weeb (・ω・ )
 
 <br>
 
