@@ -48,7 +48,7 @@
 
 **Languages**　　💬 **EN** 　|　 **SI**　 |　 **JP** *(少しだけど。。。)*
 
-**University**　　[<img align="center" alt="NIBM" src="https://www.nibm.lk/wp-content/themes/nibm-theme-child/images/main-logo.svg" width="100" height="45">](https://www.nibm.lk/)
+**University**　　NIBM
 
 **Living in**　　　Sri Lanka [<img align="center" src="https://www.worldatlas.com/img/flag/lk-flag.jpg" width="25" height="16" alt=":flag_lk:">](https://goo.gl/maps/L619iNA4ZNupucj27)
 
