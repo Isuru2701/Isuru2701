@@ -9,7 +9,7 @@
 
 ### I'm Isuru, and I go by **Ruru** online!
 
-- First Year undergrad 🎓 2026
+- Second Year undergrad 🎓 2026
 - 19 y.o 
 - yes, I'm a guy..
 
