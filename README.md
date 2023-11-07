@@ -90,7 +90,7 @@
 
 <br>
 
-🦜  If you'd like to chat about anything hit me up on discord! ``Ruru#3991``
+🦜  If you'd like to chat about anything hit me up on discord! ``ruru2701``
 
 Ja~!
 
