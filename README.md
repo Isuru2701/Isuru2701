@@ -4,14 +4,13 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Isuru2701&count_private=true&text_color=ffffff&bg_color=171717&custom_title=Fr?&include_all_commits_disable=true&title_color=ffffff">
 
 
-<b><div style="color:#fdc0fe;font-family:'Bahnschrift';font-size:25px">Yosh👋</div></b>
+<b><div style="color:#fdc0fe;font-family:'Bahnschrift';font-size:25px">あけましておめでとう🎋～</div></b>
 
 
 ### I'm Isuru, and I go by **Ruru** online!
 
 - Second Year undergrad 🎓 2026
 - 19 y.o 
-- yes, I'm a guy..
 
 
 ## Quick Contacts
