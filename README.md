@@ -10,7 +10,7 @@
 ### I'm Isuru, and I go by **Ruru** online!
 
 - Second Year undergrad 🎓 2026
-- 19 y.o 
+- 20 y.o 
 
 
 ## Quick Contacts
@@ -56,6 +56,11 @@
 
 ![Photoshop](https://img.shields.io/badge/-Ps-101112?style=flat-square&logo=adobe&logoColor=3a88e0)
 ![Autodesk Sketchbook](https://img.shields.io/badge/-Autodesk%20Sketchbook-3b3a39?style=flat-square&logo=autodesk&logoColor=ed6445)
+<br>
+
+
+You can check out my work on Pixiv!
+<br>[![Pixiv](https://img.shields.io/badge/-Pixiv-3b3a39?style=flat-square&logo=pixiv&logoColor=0b98fa)](https://www.pixiv.net/en/users/70978259)
 
 <br>
 
