@@ -1,5 +1,5 @@
 <!-- Intro-->
-# <b><div style="color:#96f3fe;font-family:'Bahnschrift';font-size:60px;align:centre">Isuru Yahampath</div></b>
+
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Isuru2701&count_private=true&text_color=ffffff&bg_color=171717&custom_title=Fr?&include_all_commits_disable=true&title_color=ffffff">
 
