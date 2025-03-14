@@ -8,16 +8,12 @@
 
 
 ### Ruru dayo
-- 21 something
-<br>
-<br>
-
-## For inquiries
 ![Discord](https://img.shields.io/badge/ruwuru7102-7289da?style=flat-square&logo=discord&logoColor=white)
+<br>
 [![X](https://img.shields.io/badge/@ruuru_dayo-000?style=flat-square&logo=x&logoColor=white)](https://www.x.com/ruuru_dayo)
 
 <!--programming languages-->
-
+<br>
 
 ## Programming Languages
 ![Python](https://img.shields.io/badge/-Python-15778f?style=flat-square&logo=python&logoColor=fff)
