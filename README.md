@@ -7,15 +7,11 @@
 <b><div style="color:#fdc0fe;font-family:'Bahnschrift';font-size:25px">yosh～</div></b>
 
 
-### I'm Isuru, and I go by **Ruru** online!
+### Ruru dayo
 
-- Second Year undergrad 🎓 2026
-- 20 y.o 
-
-
-## Quick Contacts
-[![E-Mail](https://img.shields.io/badge/Isuru-b3198f?style=flat-square&logo=gmail&logoColor=white&labelColor=b3198f)](mailto:isuruyahampath1@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-c13584?style=flat-square&logo=instagram&logoColor=white&labelColor=c13584)](https://www.instagram.com/ruwuru2701/)
+## For inquiries
+![Discord](https://img.shields.io/badge/ruwuru7102-7289da?style=flat-square&logo=discord&logoColor=white)
+[![X](https://img.shields.io/badge/@ruuru_dayo-000?style=flat-square&logo=x&logoColor=white)](https://www.x.com/ruuru_dayo)
 
 <!--programming languages-->
 
@@ -46,11 +42,6 @@
 
 **Languages**　　💬 **EN** 　|　 **SI**　 |　 **JP** *(少しだけど。。。)*
 
-**University**　　NIBM
-
-**Living in**　　　Sri Lanka [<img align="center" src="https://www.worldatlas.com/img/flag/lk-flag.jpg" width="25" height="16" alt=":flag_lk:">](https://goo.gl/maps/L619iNA4ZNupucj27)
-
-
 <br>
 ✏️  Draws stuff (sometimes)
 
@@ -72,9 +63,6 @@ You can check out my work on Pixiv!
 <!--Interests-->
 <br>
 
-📰  I'm still a newbie and I'd love to learn more and meet new people!
-<br>
-
 <br>
 
 📺  Slice of Life |  Sci-Fi |  Romcom | Seinen
@@ -93,11 +81,5 @@ You can check out my work on Pixiv!
 ✨  Oh and I play genshin too! UID: ``844008437``
 
 <br>
-
-🦜  If you'd like to chat about anything hit me up on discord! ``ruru2701``
-
-Ja~!
-
-
 
 <!-->
