@@ -8,6 +8,9 @@
 
 
 ### Ruru dayo
+- 21 something
+<br>
+<br>
 
 ## For inquiries
 ![Discord](https://img.shields.io/badge/ruwuru7102-7289da?style=flat-square&logo=discord&logoColor=white)
